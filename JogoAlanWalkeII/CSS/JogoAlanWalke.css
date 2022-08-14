@@ -1,0 +1,55 @@
+body{
+    background-image: url('http://www.devmedia.com.br/arquivos/cursos/css_background/embed/aula3/img1.jpg');
+    margin: 0;
+}
+.topo{
+    background-color: #0078F2;
+    padding: 10px 20px;
+    margin: 0 auto;
+}
+.topo p{
+    color: #ffffff;
+    font-size: 22px;
+    text-align: center;
+    margin: 0 auto;
+}
+h1{
+    color: rgb(201, 201, 201);
+}
+img{
+    width: 100%;
+}
+.conteudo{
+    width: 600px;
+    margin: 0 auto;
+    padding: 10px 20px;
+}
+p{
+    color: rgb(201, 201, 201);
+    line-height: 28px;
+    font-size: 18px;
+    text-align: justify;
+}
+span{
+    font-weight: bold;
+    color: #ffffff;
+}
+.compra-jogo p{
+    color: rgb(201, 201, 201);
+    text-align: center;
+    font-size: 18px;
+}
+.compra-jogo{
+    border: 1px solid #ffffff;
+    margin: 0 auto;
+    padding: 0 20px 20px;
+    width: 350px;
+    text-align: center;
+}
+a{
+    background-color: #ffffff;
+    text-decoration: none;
+    color: #000000;
+    border-radius: 20px;
+    padding: 5px 10px;
+}
